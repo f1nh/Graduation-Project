@@ -1,0 +1,6 @@
+__pycache__
+SpeechToText
+classes.pkl
+intents.json
+words.pkl
+config.py
